@@ -1,0 +1,6 @@
+Flask
+Peewee
+pygments
+markdown
+micawber
+BeautifulSoup
